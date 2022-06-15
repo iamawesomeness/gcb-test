@@ -1,7 +1,7 @@
 steps:
 - name: 'ubuntu'
   args: ['sleep', '901']
-timeout: 1200s
+timeout: 669s
 options:
   machineType: "E2_HIGHCPU_8"
   logging: CLOUD_LOGGING_ONLY
